@@ -35,3 +35,25 @@ function reverseString(string) {
 	return stringContainer;
 }
 
+/********************
+	Another Way [Build-in String Method]
+
+1. Loop through the string
+2. use substr(1) + charAt(0) with each item | It returns a Reverse String
+
+5th call will return reverseString("") + "o" = "o"
+4th call will return reverseString("o") + "l" = "o" + "l"
+3rd call will return reverseString("lo") + "l" = "o" + "l" + "l"
+2nd call will return reverserString("llo") + "e" = "o" + "l" + "l" + "e"
+1st call will return reverserString("ello") + "h" = "o" + "l" + "l" + "e" + "h"
+
+**********************/
+function reverseString(str) {
+  
+  for(let i = 0; i <str.length; i++) {
+    return str.substr(1) + str.charAt(0)
+  }
+
+};
+
+reverseString("Shaon")
