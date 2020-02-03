@@ -9,14 +9,14 @@
 **********************/
 
 function palindromeChecker(string) {
-	const trimedString = string.replace(/ /g, "");
-	const reverdedString = trimedString.split("").reverse().join("");
+	const trimedString = string.replace(/[^A-Za-z0-9]/g, "").toLowerCase();
+	const reversedString = trimedString.split("").reverse().join("").toLowerCase();
 
-	if(string != reverdedString) {
+	if(trimedString !== reversedString) {
 		console.log("Sorry! This isn't Palindrome. Try another one");
 	} else {
 		console.log("Hurray! This is Palindrome");
 	}
 };
 
-palindromeChecker("wow") // true
+palindromeChecker("A man, a plan, a canal. Panama") // true
