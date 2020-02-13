@@ -15,4 +15,28 @@ function factorialize(num) {
 }
 
 const result = factorialize(5)
-console.log(result)
+console.log(result) // 120
+
+
+
+// Another way:- Factorize a number using WHILE Loop
+
+function factorial(number) {
+
+  let intialNumber = number;
+
+  // If num = 0 OR num = 1, the factorial will return 1
+  if(num === 0 || num === 1) {
+    return 1;
+  }
+
+  while(num > 1) {
+    num --;
+    intialNumber *= num;
+  }
+  return intialNumber;
+
+}
+
+const anotherResult = factorial(4);
+console.log(anotherResult) // 24
