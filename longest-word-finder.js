@@ -10,16 +10,20 @@
 
 **************/
 
-function findLongestWord(string) {
-  
-  const convertedValue = string.split(" ");
-  
-  const longestWord = convertedValue.sort((a,b) => {
+ffunction longestWordFinder(string) {
+
+  const convertedString = string.split(" ");
+
+  const sortedValue = convertedString.sort((a,b) => {
     return b.length - a.length;
   })
 
-  return longestWord[0].length;
+
+  // return a IIFE to print out result on Console.
+  return (() => {
+    console.log(`Longest Word is: ${sortedValue[0]}. It's length is: ${sortedValue[0].length}`)
+  })()
 
 }
 
-findLongestWord("I am Shaon Kabir from Bangladesh")
+longestWordFinder("I am Shaon from Bangladesh.") 
