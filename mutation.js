@@ -29,3 +29,16 @@ function mutation(arr) {
 
 mutation(["hello", "ohel"]); // return true;
 // mutation(["hello", "hey"]); // return false;
+
+
+
+// Another Way: using Regular Expression
+
+function mutation(arr) {
+
+  const regExp = new RegExp(`^[${arr[0]}]+$`, 'gi') // regExp = /^[FIRST_ELEMENT]+$/gi
+  return regExp.test(arr[1]);
+}
+
+mutation(["Alien", "Line"]); // return true;
+// mutation(["Alien", "Link"]); // return false;
