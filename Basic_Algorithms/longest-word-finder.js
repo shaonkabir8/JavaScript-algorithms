@@ -10,13 +10,13 @@
 
 **************/
 
-ffunction longestWordFinder(string) {
+function longestWordFinder(string) {
 
   const convertedString = string.split(" ");
 
   const sortedValue = convertedString.sort((a,b) => {
     return b.length - a.length;
-  })
+})
 
 
   // return a IIFE to print out result on Console.
