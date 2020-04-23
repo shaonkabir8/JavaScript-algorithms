@@ -1,7 +1,6 @@
 # JavaScript Algorithms
 
 ## Basic Algorithms
-
 |   #   |                           Algorithm Name                            |
 | :---: | :-----------------------------------------------------------------: |
 |  01   | [Celsius to Fahrenheit](/Basic_Algorithms/celsius_to_fahrenheit.js) |
@@ -13,3 +12,9 @@
 |  07   |   [Longest word finder](/Basic_Algorithms/longest-word-finder.js)   |
 |  08   |              [Mutation](/Basic_Algorithms/mutation.js)              |
 |       |                                                                     |
+
+
+## Intermediate Algorithms
+|   #   |                              Algorithm Name                              |
+| :---: | :----------------------------------------------------------------------: |
+|  01   | [Sum all numbers in a range](/Intermediate_Algorithms/sum_all_number.js) |
