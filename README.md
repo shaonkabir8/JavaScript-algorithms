@@ -22,4 +22,5 @@
 | :---: | :----------------------------------------------------------------------: |
 |  01   | [Sum all numbers in a range](/Intermediate_Algorithms/sum_all_number.js) |
 |  02   |       [Diff two array](/Intermediate_Algorithms/diff_two_array.js)       |
+|  03   |     [Seek and Destroy](/Intermediate_Algorithms/seek_and_destroy.js)     |
 |       |                                                                          |
