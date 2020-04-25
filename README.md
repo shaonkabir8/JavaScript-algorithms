@@ -14,7 +14,12 @@
 |       |                                                                     |
 
 
+
+
+
 ## Intermediate Algorithms
 |   #   |                              Algorithm Name                              |
 | :---: | :----------------------------------------------------------------------: |
 |  01   | [Sum all numbers in a range](/Intermediate_Algorithms/sum_all_number.js) |
+|  02   |       [Diff two array](/Intermediate_Algorithms/diff_two_array.js)       |
+|       |                                                                          |
