@@ -11,11 +11,9 @@
 
 
 function destroyer(arr) {
-	console.table(arr)
 
 	// grab Arguments Object except First one by converting into Array
 	const args = Array.from(arguments).slice(1);
-	console.log(args)
 
 	// Check if the elements of our args are included in First args(Array) or not!
 	// If not includes, Return !
