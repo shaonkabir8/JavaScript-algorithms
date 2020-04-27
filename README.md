@@ -24,4 +24,5 @@
 |  02   |       [Diff two array](/Intermediate_Algorithms/diff_two_array.js)       |
 |  03   |     [Seek and Destroy](/Intermediate_Algorithms/seek_and_destroy.js)     |
 |  04   |      [Spinal Top Case](/Intermediate_Algorithms/spinal_top_case.js)      |
+|  05   |   [Search and Replace](/Intermediate_Algorithms/search_and_replace.js)   |
 |       |                                                                          |
