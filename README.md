@@ -32,3 +32,10 @@
 | :---: | :---------------------------------------------------------------------------: |
 |  01   | [Find the Symmetric Difference](/Advanced_Algorithms/symmetric_difference.js) |
 |       |                                                                               |
+
+
+## 🔥 Sorting Algorithms
+|   #   |                   Algorithm Name                   |
+| :---: | :------------------------------------------------: |
+|  01   | [Bubble Sort](/Advanced_Algorithms/bubble_sort.js) |
+|       |                                                    |
