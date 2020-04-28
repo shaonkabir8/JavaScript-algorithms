@@ -35,7 +35,8 @@
 
 
 ## 🔥 Sorting Algorithms
-|   #   |                   Algorithm Name                   |
-| :---: | :------------------------------------------------: |
-|  01   | [Bubble Sort](/Advanced_Algorithms/bubble_sort.js) |
-|       |                                                    |
+|   #   |                      Algorithm Name                      |
+| :---: | :------------------------------------------------------: |
+|  01   |    [Bubble Sort](/Advanced_Algorithms/bubble_sort.js)    |
+|  02   | [Selection Sort](/Advanced_Algorithms/selection_sort.js) |
+|       |                                                          |
