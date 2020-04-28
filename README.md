@@ -1,6 +1,6 @@
 # JavaScript Algorithms
 
-## Basic Algorithms
+## 🔥 Basic Algorithms
 |   #   |                           Algorithm Name                            |
 | :---: | :-----------------------------------------------------------------: |
 |  01   | [Celsius to Fahrenheit](/Basic_Algorithms/celsius_to_fahrenheit.js) |
@@ -17,7 +17,7 @@
 
 
 
-## Intermediate Algorithms
+## 🔥 Intermediate Algorithms
 |   #   |                              Algorithm Name                              |
 | :---: | :----------------------------------------------------------------------: |
 |  01   | [Sum all numbers in a range](/Intermediate_Algorithms/sum_all_number.js) |
@@ -26,3 +26,9 @@
 |  04   |      [Spinal Top Case](/Intermediate_Algorithms/spinal_top_case.js)      |
 |  05   |   [Search and Replace](/Intermediate_Algorithms/search_and_replace.js)   |
 |       |                                                                          |
+
+## 🔥 Advanced Algorithms
+|   #   |                                Algorithm Name                                 |
+| :---: | :---------------------------------------------------------------------------: |
+|  01   | [Find the Symmetric Difference](/Advanced_Algorithms/symmetric_difference.js) |
+|       |                                                                               |
