@@ -39,4 +39,5 @@
 | :---: | :------------------------------------------------------: |
 |  01   |    [Bubble Sort](/Advanced_Algorithms/bubble_sort.js)    |
 |  02   | [Selection Sort](/Advanced_Algorithms/selection_sort.js) |
+|  03   | [Insertion Sort](/Advanced_Algorithms/insertion_sort.js) |
 |       |                                                          |
