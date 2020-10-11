@@ -15,14 +15,14 @@ __🎉 Clone the repo & Start Hacking 😎__
 ## 🔥 Basic Algorithms
 |   #   |                           Algorithm Name                            |
 | :---: | :-----------------------------------------------------------------: |
-|  01   | [Celsius to Fahrenheit](/Basic_Algorithms/celsius_to_fahrenheit.js) |
-|  02   |      [Reverse a string](/Basic_Algorithms/reverse-a-string.js)      |
-|  03   |    [Factorize a number](/Basic_Algorithms/factorize_a_number.js)    |
-|  04   |         [Fibonacci number](/Basic_Algorithms/fibonacci.js)          |
-|  05   |           [Find Vowel](/Basic_Algorithms/find-vowels.js)            |
-|  06   |    [Palindrome checker](/Basic_Algorithms/palindrome-checker.js)    |
-|  07   |   [Longest word finder](/Basic_Algorithms/longest-word-finder.js)   |
-|  08   |              [Mutation](/Basic_Algorithms/mutation.js)              |
+|  01   | [Celsius to Fahrenheit](/basic-algorithms/celsius-to-fahrenheit.js) |
+|  02   |      [Reverse a string](/basic-algorithms/reverse-a-string.js)      |
+|  03   |    [Factorize a number](/basic-algorithms/factorize-a-number.js)    |
+|  04   |         [Fibonacci number](/basic-algorithms/fibonacci.js)          |
+|  05   |           [Find Vowel](/basic-algorithms/find-vowels.js)            |
+|  06   |    [Palindrome checker](/basic-algorithms/palindrome-checker.js)    |
+|  07   |   [Longest word finder](/basic-algorithms/longest-word-finder.js)   |
+|  08   |              [Mutation](/basic-algorithms/mutation.js)              |
 |       |                                                                     |
 
 
@@ -32,24 +32,24 @@ __🎉 Clone the repo & Start Hacking 😎__
 ## 🔥 Intermediate Algorithms
 |   #   |                              Algorithm Name                              |
 | :---: | :----------------------------------------------------------------------: |
-|  01   | [Sum all numbers in a range](/Intermediate_Algorithms/sum_all_number.js) |
-|  02   |       [Diff two array](/Intermediate_Algorithms/diff_two_array.js)       |
-|  03   |     [Seek and Destroy](/Intermediate_Algorithms/seek_and_destroy.js)     |
-|  04   |      [Spinal Top Case](/Intermediate_Algorithms/spinal_top_case.js)      |
-|  05   |   [Search and Replace](/Intermediate_Algorithms/search_and_replace.js)   |
+|  01   | [Sum all numbers in a range](/intermediate-algorithms/sum-all-number.js) |
+|  02   |       [Diff two array](/intermediate-algorithms/diff-two-array.js)       |
+|  03   |     [Seek and Destroy](/intermediate-algorithms/seek-and-destroy.js)     |
+|  04   |      [Spinal Top Case](/intermediate-algorithms/spinal-top-case.js)      |
+|  05   |   [Search and Replace](/intermediate-algorithms/search-and-replace.js)   |
 |       |                                                                          |
 
 ## 🔥 Advanced Algorithms
 |   #   |                                Algorithm Name                                 |
 | :---: | :---------------------------------------------------------------------------: |
-|  01   | [Find the Symmetric Difference](/Advanced_Algorithms/symmetric_difference.js) |
+|  01   | [Find the Symmetric Difference](/advanced_algorithms/symmetric-difference.js) |
 |       |                                                                               |
 
 
 ## 🔥 Sorting Algorithms
 |   #   |                      Algorithm Name                      |
 | :---: | :------------------------------------------------------: |
-|  01   |    [Bubble Sort](/Advanced_Algorithms/bubble_sort.js)    |
-|  02   | [Selection Sort](/Advanced_Algorithms/selection_sort.js) |
-|  03   | [Insertion Sort](/Advanced_Algorithms/insertion_sort.js) |
+|  01   |    [Bubble Sort](/advanced_algorithms/bubble-sort.js)    |
+|  02   | [Selection Sort](/advanced_algorithms/selection-sort.js) |
+|  03   | [Insertion Sort](/advanced_algorithms/insertion-sort.js) |
 |       |                                                          |
