@@ -1,4 +1,16 @@
-# JavaScript Algorithms
+# Awesome JavaScript Algorithms and Data Structures  🥰😍🤩
+
+![GitHub contributors](https://img.shields.io/github/contributors/shaonkabir8/algorithm-practice?style=for-the-badge)
+![Built With Love](./docs/built-with-love.png)
+
+## Development Mode:
+It is quite simple to test any of the `Algorithm`.
+
+__🎉 Clone the repo & Start Hacking 😎__ 
+
+🚀 Example: `node Basic-Algorithms/reverse-a-string.js`
+
+
 
 ## 🔥 Basic Algorithms
 |   #   |                           Algorithm Name                            |
