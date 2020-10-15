@@ -1,15 +1,25 @@
-# Awesome JavaScript Algorithms and Data Structures  🥰😍🤩
+# 🚀 JavaScript Algorithms
 
-![GitHub contributors](https://img.shields.io/github/contributors/shaonkabir8/algorithm-practice?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/shaonkabir8/JavaScript-Algorithms?style=for-the-badge)
 ![Built With Love](./docs/built-with-love.png)
+
+A minimal approach to make a list of awesome algorithms solved in saveral ways with **JavaScript** :rocket:
 
 ## Development Mode:
 It is quite simple to test any of the `Algorithm`.
 
 __🎉 Clone the repo & Start Hacking 😎__ 
 
-🚀 Example: `node Basic-Algorithms/reverse-a-string.js`
+🚀 Example: `node basic-algorithms/palindrome-checker.js`
 
+
+## ✅ How to Contribute
+
+First: if you feel insecure about how to start contributing, Don't worry -  You can also just go ahead with your contribution and other contriubutors give you feedback. We appreciate any contributions, and we don't want a wall of rules to stand in the way of that.
+
+> Remember, no contribution is too small, and everyone was a rookie at some point in time. From documentation updates to bug fixes or small feature improvements, every pull request has value and helps make the world a better place.
+
+However, first read our [Contribution Guide](docs/CONTRIBUTION.md) and start Hacking :rocket:
 
 
 ## 📝 Awesome Algortihms
@@ -32,4 +42,10 @@ __🎉 Clone the repo & Start Hacking 😎__
 |  15   |   Advanced 	 |			[Bubble Sort](/advanced_algorithms/bubble-sort.js)    	   |
 |  16   |   Advanced 	 |		[Selection Sort](/advanced_algorithms/selection-sort.js) 	   |
 |  17   |   Advanced 	 |		[Insertion Sort](/advanced_algorithms/insertion-sort.js) 	   |
+
+
+
+
+## License
+[MIT](LICENSE)
 
